@@ -4,13 +4,13 @@
 
 🌐 **Live site: [hydrostate.github.io](https://hydrostate.github.io)**
 
-HydroState is a free dashboard and statistics tool for identifying where catchment runoff behaviour has shifted, how persistent that shift is, and what it means for water resource planning. It brings the research of Peterson et al. (2021) and Zahedi et al. (2026) together with the open-source [hydroState](https://github.com/peterson-tim-j/HydroState) R package. Anyone can use it in a web browser, with no software to install and no R code to learn.
+HydroState is a graphical hydro-statistics tool for identifying where catchment runoff behaviour has shifted, how persistent that shift is, and what it means for water resource planning. It brings the research of Peterson et al. (2021) and Zahedi et al. (2026) together with the open-source [hydroState](https://github.com/peterson-tim-j/HydroState) R package. Anyone can use it in a web browser, with no software to install and no R code to learn.
 
 ---
 
 ## Why it matters
 
-Many Victorian catchments still produce less runoff than they did before the Millennium Drought (1997–2009), even though rainfall has returned. Peer-reviewed research on Victoria's gauged, unregulated catchments found that:
+Many water catchments in Victorian, Australia, still produce less runoff than they did before the Millennium Drought (1997–2009), even though rainfall has returned. Peer-reviewed research on Victoria's gauged, unregulated catchments found that:
 
 - **57%** of catchments shifted to a low-runoff state, many of them very early in the drought;
 - **37%** had not returned to their pre-drought rainfall–runoff behaviour seven years after the drought ended; and
