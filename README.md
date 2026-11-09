@@ -10,7 +10,7 @@ HydroState is a graphical hydro-statistics tool for identifying where catchment 
 
 ## Why it matters
 
-Many water catchments in Victorian, Australia, still produce less runoff than they did before the Millennium Drought (1997–2009), even though rainfall has returned. Peer-reviewed research on Victoria's gauged, unregulated catchments found that:
+Many water catchments in Victoria, Australia, still produce less runoff than they did before the Millennium Drought (1997–2009), even though rainfall has returned. Peer-reviewed research on Victoria's gauged, unregulated catchments found that:
 
 - **57%** of catchments shifted to a low-runoff state, many of them very early in the drought;
 - **37%** had not returned to their pre-drought rainfall–runoff behaviour seven years after the drought ended; and
